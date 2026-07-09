@@ -8,11 +8,13 @@ This repository is the shared working hub for projects continued across company 
 2. Keep project status in `PROJECTS.md`.
 3. Keep the current handoff context in `NOTES.md`.
 4. Commit and push after meaningful changes so another machine can continue from the same state.
+5. Follow `AGENTS.md` for Codex's default behavior in this repository.
 
 ## Suggested Project Layout
 
 ```text
 projects/
+  _template/
   project-name/
     README.md
     notes.md
