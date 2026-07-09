@@ -20,4 +20,4 @@ At the end of each meaningful work session, update this file with:
 
 ## Current Next Step
 
-For the next project, create a folder under `projects/`, start from `projects/_template/`, and add an entry to `PROJECTS.md`.
+Continue Dermagrow authentication work in `projects/dermagrow/`. The previous 2026-07-08 chat is not directly available here, so recover the auth context from the user or from project files if they are added.
