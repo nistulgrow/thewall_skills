@@ -25,3 +25,7 @@ projects/
 
 - GitHub: https://github.com/nistulgrow/thewall_skills
 - Default branch: `main`
+
+## Local Path
+
+- Canonical local workspace: `/Users/Jungmin/Documents/Codex/thewall_skills`
