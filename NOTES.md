@@ -7,6 +7,7 @@ Last updated: 2026-07-09
 - Shared GitHub repository: `nistulgrow/thewall_skills`
 - Purpose: keep future projects in one place so work can continue across company and personal machines.
 - Recommended project folder: `projects/<project-name>/`
+- Canonical local workspace: `/Users/Jungmin/Documents/Codex/thewall_skills`
 - Default Codex rule file: `AGENTS.md`
 - New project template: `projects/_template/`
 
